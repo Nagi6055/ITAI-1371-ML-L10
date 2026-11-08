@@ -2,7 +2,11 @@
 
 2.	DESCRIPTION OF EXPIRIENCE/TOPIC - (Name)
 
-3.	PERSONAL REFLECTION – (Name)
+3.	PERSONAL REFLECTION – (Marcus)
+I was a little scared to start this lab with unsupervised learning. It felt like navigating without a map, as we didn’t have any labeled targets to work with. 
+It was very useful to have a private sandbox environment, where I can safely play around with the code and really understand how K-Means and PCA work under the hood. 
+It was great to see how Elbow Method could find optimal clusters and how PCA could compress high dimensional data and still keep the important patterns. 
+I think overall the opportunity to test concepts on our own helped bridge the gap between raw Python execution and real data science insights.
 
 4.	DISCUSSION OF IMPROVEMENT AND LEARNING - (Name)
 
